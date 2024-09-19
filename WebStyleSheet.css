@@ -70,7 +70,7 @@ background-color:silver;
 .htmlimg{
     width:auto;
     text-align:center;
-    padding;75px;
+    padding:75px;
     border-color: red;
     border-width: 5px;
     border-style: solid;
@@ -95,6 +95,8 @@ table {
     width:60%;
     text-align:center;
     border-collapse:collapse;
+    border-radius: 10px;
+    padding-bottom: 1000px;
 }
 
 table, th, td {
@@ -102,6 +104,7 @@ table, th, td {
 }
 
 .table{
-    text-align:center;
-    
+    max-width: fit-content;
+    margin-inline: auto;
+    margin-left:25%;
 }
