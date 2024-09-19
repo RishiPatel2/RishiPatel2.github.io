@@ -89,7 +89,6 @@ background-color:silver;
     background-color:silver;
     padding:30px;
 }
-
 table {
     table-layout: fixed;
     width:60%;
@@ -109,4 +108,11 @@ table, th, td {
     max-width: fit-content;
     margin-inline: auto;
     margin-left:25%;
+}
+
+a:hover{
+    color:rgb(219, 130, 22)
+}
+a:visited{
+    color:rgb(230, 27, 50)
 }
